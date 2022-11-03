@@ -3,8 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-
 .pictures {
     margin: 40px auto 0;
     width: 80%;
@@ -32,3 +30,23 @@ img:hover {
     scale: 1.2;
 }
 
+body {
+    background-color: bisque;
+    color: darkcyan;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+span {
+    color: red;
+}
